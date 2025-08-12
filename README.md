@@ -27,7 +27,8 @@ This repository contains:
 
 ---
 
-## 4️⃣ Repository Structure
+## 3️⃣ Repository Structure
+```plaintext
 AI-Study-Planner-Group8/
 ├── README.md
 ├── Project-Plan/
@@ -35,16 +36,14 @@ AI-Study-Planner-Group8/
 ├── src/
 └── resources/
 
----
-
-## 5️⃣ Contributors
+4️⃣ Contributors
 (To be completed)
 
-- **Project Facilitator/Lead:** [Student Name(s)]  
-- **Client Communication Lead:** [Student Name(s)]  
-- **Back-End/AI Development Lead:** [Student Name(s)]  
-- **Front-End Development Lead:** [Student Name(s)]  
-- **Testing/QA Lead:** [Student Name(s)]  
-- **Documentation Manager:** [Student Name(s)]  
-- **Data Analyst:** [Student Name(s)]  
-- **UX/UI Designer:** [Student Name(s)]  
+Project Facilitator/Lead: [Student Name(s)]
+Client Communication Lead: [Student Name(s)]
+Back-End/AI Development Lead: [Student Name(s)]
+Front-End Development Lead: [Student Name(s)]
+Testing/QA Lead: [Student Name(s)]
+Documentation Manager: [Student Name(s)]
+Data Analyst: [Student Name(s)]
+UX/UI Designer: [Student Name(s)]
